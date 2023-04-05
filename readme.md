@@ -1,5 +1,4 @@
 **NIM**     : 10522014
-
 **Nama**   :  Arif Nur Ramadhan
 
 ## Pengertian Binary Search
