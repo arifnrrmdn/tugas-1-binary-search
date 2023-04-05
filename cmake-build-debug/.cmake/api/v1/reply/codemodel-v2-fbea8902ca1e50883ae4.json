@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tugas_1_binary_search_struktur_data",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tugas_1_binary_search_struktur_data::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tugas_1_binary_search_struktur_data-Debug-de8a7ea7d64b66b812a6.json",
+					"name" : "tugas_1_binary_search_struktur_data",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/iifrmdn/CLionProjects/tugas-1-binary-search-struktur-data/cmake-build-debug",
+		"source" : "/home/iifrmdn/CLionProjects/tugas-1-binary-search-struktur-data"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
