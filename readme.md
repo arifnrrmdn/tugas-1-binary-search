@@ -13,9 +13,11 @@ Dalam proses pencarian data pada metode ini data akan di bagi menjadi dua bagian
 - Kemudian nilai tersebut akandibandingkandengan elemen-elemen pada posisi berikutnya.
 - Bila nilai yang dipilih pertama kali lebihbesardari nilai elemen pembandingmakatukarkankedua buah nilai tersebut.
 
+# Screenshoot
+
 ## Data ditemukan
-![Screenshot from 2023-04-06 00 34 48](https://user-images.githubusercontent.com/91766087/230163687-6e05bccc-d918-4d7b-ad85-f52af17fd8c5.png)
+![Screenshot from 2023-04-06 01 10 45](https://user-images.githubusercontent.com/91766087/230167610-4e9b3c03-a50e-465f-8b68-7f2ce33671d0.png)
 
 ## Data tidak ditemukan
-![Screenshot from 2023-04-06 00 35 11](https://user-images.githubusercontent.com/91766087/230163661-57b5a71a-ee57-440a-918a-45ae0d44b398.png)
+![Screenshot from 2023-04-06 01 11 18](https://user-images.githubusercontent.com/91766087/230167710-fd692e17-c770-4916-b63e-69009debf569.png)
 
