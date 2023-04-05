@@ -16,6 +16,8 @@ Dalam proses pencarian data pada metode ini data akan di bagi menjadi dua bagian
 ![Screenshot from 2023-04-06 00 35 11](https://user-images.githubusercontent.com/91766087/230163661-57b5a71a-ee57-440a-918a-45ae0d44b398.png)
 
 
+
+
 **NIM**     : 10522014
 
 **Nama**   :  Arif Nur Ramadhan
